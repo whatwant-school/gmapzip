@@ -1,0 +1,13 @@
+{
+  "name": "gmapzip-backend",
+  "version": "0.0.1",
+  "description": "gmapzip DB API SERVER",
+  "author": "whatwant <whatwant@whatwant.com>",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "mongoose": "latest"
+  }
+}
